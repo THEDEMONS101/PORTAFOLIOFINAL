@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Carpeta de construcción (build)
+dist/
+dist-ssr/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
